@@ -70,3 +70,10 @@ This code is for educational and demonstration purposes. The characteristics of 
 | customer_id | string | ID of the customer |
 | order_id | string | ID of the order |
 | order_timestamp | timestamp | Date of the order |
+
+---
+
+## Link
+
+The pdf of this thesis in greek:
+[Thesis](http://ikee.lib.auth.gr/record/324201)
