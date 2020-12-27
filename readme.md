@@ -54,10 +54,10 @@ pip install mysql-connector-python-rf
 
 ## Usage
 
-- data.py:contains all the functions for data preprocessing
-- neural_network.py: contains all the functions for testing and creating the neural network
-- pso.py: contains all the necessary code for the particle swarm optimization
-- main.py: shows the order in which our functions are being called.
+- **data.py**: contains all the functions for data preprocessing
+- **neural_network.py**: contains all the functions for testing and creating the neural network
+- **pso.py**: contains all the necessary code for the particle swarm optimization
+- **main.py**: shows the order in which our functions are being called.
 
 The code written is not functional as there has to be a connection to a database which contains all the necessary data.
 This code is for educational and demonstration purposes. The characteristics of the initial data are:
